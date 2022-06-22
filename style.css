@@ -1,0 +1,38 @@
+*{
+    /* background-color: cadetblue; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header {
+    text-align: center;
+    font-size: larger;
+    border: 10px solid black;
+    margin: 10px;
+    padding: 30px grey;
+    background-color: aquamarine;
+    }
+body {
+    background-color: cadetblue;
+    text-align: center;
+    border: 5px solid black;
+    margin: 20px auto;
+    }
+#welcome { 
+    border: 10px solid black;
+    height: 500px;
+    width: 500px
+    
+} 
+footer {
+    background-color: aquamarine;
+    margin: auto;
+    text-align: center;
+    border: 10px solid black;
+  
+}  
+#name {
+    background-color: white;
+    } 
+#button {
+    background-color: cadetblue;
+    width:auto   
+}
